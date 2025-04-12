@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Lauane
+## Estudante de Desenvolvimento de Sistemas que ama tecnologia!
 ![Lalau GitHub stats](https://github-readme-stats.vercel.app/api?username=lalau-dev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalau-dev&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
