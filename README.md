@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Lauane
-![Lalau GitHub stats](https://github-readme-stats.vercel.app/api?username=lalau-dev&show_icons=true&theme=radical)
+![Lalau GitHub stats](https://github-readme-stats.vercel.app/api?username=lalau-dev&show_icons=true&theme=onedark)
 
 <!--
 **Lalau-dev/Lalau-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
